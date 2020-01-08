@@ -1,5 +1,5 @@
 const addButton = document.querySelector('.addButton');
-var input = document.querySelector('.input');
+let input = document.querySelector('.input');
 const container = document.querySelector('.container');
 
 class item {
